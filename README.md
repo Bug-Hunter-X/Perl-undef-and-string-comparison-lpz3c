@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Perl when comparing an undefined variable to a string using the eq operator.  The example shows how undef does not behave as expected in string comparisons and offers a solution.
