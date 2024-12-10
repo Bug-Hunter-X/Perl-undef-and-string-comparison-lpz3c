@@ -1,0 +1,1 @@
+my $var = undef; if (!defined $var || $var eq 'something') { print 'This will work!'; } #Check for defined before comparison
